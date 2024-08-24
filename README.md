@@ -1,3 +1,3 @@
-# testing
-This is my first git repository
+# beginner python projects
+
 author: Eishmeeta Kaur
